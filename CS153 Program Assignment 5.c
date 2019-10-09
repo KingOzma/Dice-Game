@@ -1,7 +1,4 @@
-/* CS 153 PROGRAM ASSIGNMENT #5
-
-Dice Game
-Ryan Arce
+/*Dice Game
 2/28/19 */
 
 #include <stdio.h>
